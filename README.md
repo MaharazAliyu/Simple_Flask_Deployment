@@ -1,5 +1,5 @@
-# flask-salary-predictor
-This is project predicts the salary of the employee based on the experience.
+# salary-predictor
+This is project predicts the salary of the employee based on years of experience.
 
 # Model
 model.py trains and saves the model to the disk.
@@ -11,4 +11,8 @@ app.py contains all the requiered for flask and to manage APIs.
 
 
 Procedure--
-Open command Prompt and go to given directory and then run python app.py
+1. Open Terminal 
+2. clone repository
+3. create a virtual envrinment
+4. Install packages in requirement.txt
+5. Run flask app.py
