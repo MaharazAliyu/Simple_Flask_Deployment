@@ -6,7 +6,6 @@ This model predicts the salary of the employ based on experience using simple li
 
 # Importing the libraries
 import numpy as np
-#import matplotlib.pyplot as plt
 import pandas as pd
 import pickle
 import requests
