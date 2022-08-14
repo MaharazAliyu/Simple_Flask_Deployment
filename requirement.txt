@@ -1,5 +1,5 @@
-numpy
+numpy==1.23.2
 sklearn
 requests
-flask
-gunicorn
+flask==2.2.2
+gunicorn==20.1.0
